@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changed text
+=======
+Text
+>>>>>>> 38697602559cefd1fb7f989a09550a8a256f62e0
